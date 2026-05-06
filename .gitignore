@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code
+.claude/
+
+# Temp
+paper_text.txt
+=1.4.0
+
+# Results (regeneratable)
+results/
+hdr_visualization_results/
+low_light_vis_results/
+visible_low_light_results/
+
+# Model weights (large binary)
+*.pth
+
+# Paper docx (large binary, choose to include or not)
+自适应增强选择融合情绪识别网络_0506.docx
